@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/gauravraje/Downloads/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.5.2.r36v201107211953/appengine-java-sdk-1.5.2/lib/shared/servlet-api.jar"/>
+	<classpathentry kind="lib" path="/Users/gauravraje/.m2/repository/org/openqa/selenium-server/0.9.2/selenium-server-0.9.2.jar"/>
+	<classpathentry kind="lib" path="/Users/gauravraje/.m2/repository/net/sourceforge/htmlunit/htmlunit-core-js/2.7/htmlunit-core-js-2.7.jar"/>
+	<classpathentry kind="lib" path="/Users/gauravraje/.m2/repository/net/sourceforge/htmlunit/htmlunit-core-js/2.4/htmlunit-core-js-2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/gauravraje/Downloads/jetty-core-6.1.14.jar/jetty-core-6.1.14.jar"/>
+	<classpathentry kind="output" path="target"/>
+</classpath>

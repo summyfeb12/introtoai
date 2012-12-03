@@ -1,0 +1,2 @@
+serviceClass: trial.client.GreetingService
+path: 30AED584281F180629EC0991F46B1324.gwt.rpc

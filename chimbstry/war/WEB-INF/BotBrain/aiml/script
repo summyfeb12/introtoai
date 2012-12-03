@@ -1,0 +1,7 @@
+for dir in *.*
+                do
+                if [ ! -d "$dir" ]
+then
+mv "$dir" "o$dir"
+fi
+done

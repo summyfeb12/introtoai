@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0.1" xmlns="http://alicebot.org/2001/AIML-1.0.1"
+       xmlns:html="http://www.w3.org/1999/xhtml">
+	<!-- X.aiml - Starts with "X"   -->
+	<!-- Released by Anna Dev Team -->
+	<!-- Released under GNU GPL    -->
+	<!-- Fork of 9/26/2001 ALICE   -->
+
+	<category>
+		<pattern>X IS *</pattern>
+		<template>Okay, X is <set name="X">
+				<star/>
+			</set>.
+		</template>
+	</category>
+</aiml>

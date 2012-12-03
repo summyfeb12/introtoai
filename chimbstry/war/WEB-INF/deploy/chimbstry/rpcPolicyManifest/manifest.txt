@@ -1,0 +1,3 @@
+# Module chimbstry
+# RPC service class, partial path of RPC policy file
+trial.client.GreetingService, 30AED584281F180629EC0991F46B1324.gwt.rpc

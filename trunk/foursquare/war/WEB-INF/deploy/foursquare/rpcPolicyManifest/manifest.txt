@@ -1,0 +1,3 @@
+# Module foursquare
+# RPC service class, partial path of RPC policy file
+foursquare.client.GreetingService, B667F219E524B0E74F42F70E5FF38849.gwt.rpc

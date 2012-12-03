@@ -1,0 +1,2 @@
+serviceClass: foursquare.client.GreetingService
+path: B667F219E524B0E74F42F70E5FF38849.gwt.rpc
